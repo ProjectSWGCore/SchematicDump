@@ -1,0 +1,14 @@
+Slot 1: craft_armor_ingredients_n  appearance_fragments
+Slot 2: craft_armor_ingredients_n  armor_core_frame
+Slot 3: craft_armor_ingredients_n  armor_core
+Slot 4: craft_armor_ingredients_n  load_bearing_harness
+Slot 5: craft_armor_ingredients_n  reinforcement
+Slot 6: craft_armor_ingredients_n  enhancement_cartridge
+Slot 7: craft_armor_ingredients_n  appearance_enhancement_one
+Slot 8: craft_armor_ingredients_n  appearance_enhancement_two
+Attribute 1: crafting  complexity
+Attribute 2: crafting  xp
+Attribute 3: crafting  sockets
+Attribute 4: crafting  condition
+Attribute 5: crafting  general_protection
+Crafted Template: object/tangible/wearables/armor/assault_trooper/shared_armor_assault_trooper_bicep_l.iff
